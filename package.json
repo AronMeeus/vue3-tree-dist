@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/teamseodo/vue3-tree/issues"
   },
-  "homepage": "https://github.com/teamseodo/vue3-tree#readme",
+  "homepage": "https://github.com/AronMeeus/vue3-tree-dist#readme",
   "main": "./dist/vue3-tree.cjs",
   "module": "./dist/vue3-tree.mjs",
   "jsdelivr": "./dist/vue3-tree.js",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/teamseodo/vue3-tree.git"
+    "url": "https://github.com/AronMeeus/vue3-tree-dist.git"
   },
   "keywords": [
     "vue",
